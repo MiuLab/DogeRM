@@ -54,11 +54,14 @@ We include our modified RewardBench here, where the modification includes:
 
 Since the python version required by reward-bench is different from what we used in RM training, so we create a separate environment for reward-bench.
 
-You should create a new environment first:
+You should create a new environment with `python>=3.10` first:
 ```bash
-cd reward-bench/
-conda create -n {your_env_name_for_reward_bench} -f environment.yml
-conda activate {your_env_name_for_reward_bench}
+conda create -n {env_name_for_reward_bench} python=3.10 # or later version of python
+conda activate {env_name_for_reward_bench}
+
+# install the required packages
+cd reward-bench
+pip install -e .
 ```
 
 Then, run the following code, which contains the whole pipeline for merging and evaluation:
