@@ -1,3 +1,0 @@
-[submodule "reward-bench"]
-	path = reward-bench
-	url = https://github.com/allenai/reward-bench/tree/main
