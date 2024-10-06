@@ -1,0 +1,1806 @@
+{
+    "0": [
+        [
+            0,
+            {
+                "task_id": 0,
+                "passed": false,
+                "result": "failed: name 'combinations' is not defined",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "2": [
+        [
+            0,
+            {
+                "task_id": 2,
+                "passed": true,
+                "result": "passed",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "3": [
+        [
+            0,
+            {
+                "task_id": 3,
+                "passed": false,
+                "result": "failed: ",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "1": [
+        [
+            0,
+            {
+                "task_id": 1,
+                "passed": false,
+                "result": "failed: ",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "4": [
+        [
+            0,
+            {
+                "task_id": 4,
+                "passed": false,
+                "result": "failed: name 'x' is not defined",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "5": [
+        [
+            0,
+            {
+                "task_id": 5,
+                "passed": false,
+                "result": "failed: ",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "6": [
+        [
+            0,
+            {
+                "task_id": 6,
+                "passed": false,
+                "result": "failed: ",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "7": [
+        [
+            0,
+            {
+                "task_id": 7,
+                "passed": true,
+                "result": "passed",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "8": [
+        [
+            0,
+            {
+                "task_id": 8,
+                "passed": false,
+                "result": "failed: name 'reduce' is not defined",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "9": [
+        [
+            0,
+            {
+                "task_id": 9,
+                "passed": false,
+                "result": "failed: list index out of range",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "10": [
+        [
+            0,
+            {
+                "task_id": 10,
+                "passed": false,
+                "result": "failed: string index out of range",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "11": [
+        [
+            0,
+            {
+                "task_id": 11,
+                "passed": false,
+                "result": "failed: sequence item 0: expected str instance, int found",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "13": [
+        [
+            0,
+            {
+                "task_id": 13,
+                "passed": false,
+                "result": "failed: ",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "12": [
+        [
+            0,
+            {
+                "task_id": 12,
+                "passed": true,
+                "result": "passed",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "15": [
+        [
+            0,
+            {
+                "task_id": 15,
+                "passed": true,
+                "result": "passed",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "14": [
+        [
+            0,
+            {
+                "task_id": 14,
+                "passed": true,
+                "result": "passed",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "16": [
+        [
+            0,
+            {
+                "task_id": 16,
+                "passed": false,
+                "result": "failed: ",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "17": [
+        [
+            0,
+            {
+                "task_id": 17,
+                "passed": false,
+                "result": "failed: ",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "18": [
+        [
+            0,
+            {
+                "task_id": 18,
+                "passed": true,
+                "result": "passed",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "19": [
+        [
+            0,
+            {
+                "task_id": 19,
+                "passed": false,
+                "result": "failed: invalid literal for int() with base 10: 'three'",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "20": [
+        [
+            0,
+            {
+                "task_id": 20,
+                "passed": false,
+                "result": "failed: ",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "21": [
+        [
+            0,
+            {
+                "task_id": 21,
+                "passed": false,
+                "result": "failed: can't multiply sequence by non-int of type 'float'",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "22": [
+        [
+            0,
+            {
+                "task_id": 22,
+                "passed": true,
+                "result": "passed",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "23": [
+        [
+            0,
+            {
+                "task_id": 23,
+                "passed": true,
+                "result": "passed",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "24": [
+        [
+            0,
+            {
+                "task_id": 24,
+                "passed": false,
+                "result": "failed: ",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "25": [
+        [
+            0,
+            {
+                "task_id": 25,
+                "passed": false,
+                "result": "failed: ",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "26": [
+        [
+            0,
+            {
+                "task_id": 26,
+                "passed": false,
+                "result": "failed: ",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "27": [
+        [
+            0,
+            {
+                "task_id": 27,
+                "passed": false,
+                "result": "failed: ",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "29": [
+        [
+            0,
+            {
+                "task_id": 29,
+                "passed": true,
+                "result": "passed",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "28": [
+        [
+            0,
+            {
+                "task_id": 28,
+                "passed": false,
+                "result": "failed: ",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "30": [
+        [
+            0,
+            {
+                "task_id": 30,
+                "passed": true,
+                "result": "passed",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "31": [
+        [
+            0,
+            {
+                "task_id": 31,
+                "passed": true,
+                "result": "passed",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "32": [
+        [
+            0,
+            {
+                "task_id": 32,
+                "passed": false,
+                "result": "failed: math domain error",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "33": [
+        [
+            0,
+            {
+                "task_id": 33,
+                "passed": false,
+                "result": "failed: ",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "34": [
+        [
+            0,
+            {
+                "task_id": 34,
+                "passed": true,
+                "result": "passed",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "35": [
+        [
+            0,
+            {
+                "task_id": 35,
+                "passed": true,
+                "result": "passed",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "37": [
+        [
+            0,
+            {
+                "task_id": 37,
+                "passed": false,
+                "result": "failed: ",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "38": [
+        [
+            0,
+            {
+                "task_id": 38,
+                "passed": false,
+                "result": "failed: ",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "36": [
+        [
+            0,
+            {
+                "task_id": 36,
+                "passed": false,
+                "result": "failed: ",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "39": [
+        [
+            0,
+            {
+                "task_id": 39,
+                "passed": false,
+                "result": "failed: ",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "40": [
+        [
+            0,
+            {
+                "task_id": 40,
+                "passed": false,
+                "result": "failed: ",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "42": [
+        [
+            0,
+            {
+                "task_id": 42,
+                "passed": true,
+                "result": "passed",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "41": [
+        [
+            0,
+            {
+                "task_id": 41,
+                "passed": false,
+                "result": "failed: ",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "43": [
+        [
+            0,
+            {
+                "task_id": 43,
+                "passed": true,
+                "result": "passed",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "44": [
+        [
+            0,
+            {
+                "task_id": 44,
+                "passed": false,
+                "result": "failed: format() argument 2 must be str, not int",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "46": [
+        [
+            0,
+            {
+                "task_id": 46,
+                "passed": false,
+                "result": "failed: ",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "45": [
+        [
+            0,
+            {
+                "task_id": 45,
+                "passed": true,
+                "result": "passed",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "47": [
+        [
+            0,
+            {
+                "task_id": 47,
+                "passed": false,
+                "result": "failed: ",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "49": [
+        [
+            0,
+            {
+                "task_id": 49,
+                "passed": true,
+                "result": "passed",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "50": [
+        [
+            0,
+            {
+                "task_id": 50,
+                "passed": false,
+                "result": "failed: ",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "48": [
+        [
+            0,
+            {
+                "task_id": 48,
+                "passed": true,
+                "result": "passed",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "51": [
+        [
+            0,
+            {
+                "task_id": 51,
+                "passed": false,
+                "result": "failed: module 'string' has no attribute 'vowels'",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "52": [
+        [
+            0,
+            {
+                "task_id": 52,
+                "passed": false,
+                "result": "failed: ",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "53": [
+        [
+            0,
+            {
+                "task_id": 53,
+                "passed": true,
+                "result": "passed",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "54": [
+        [
+            0,
+            {
+                "task_id": 54,
+                "passed": false,
+                "result": "failed: ",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "55": [
+        [
+            0,
+            {
+                "task_id": 55,
+                "passed": true,
+                "result": "passed",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "56": [
+        [
+            0,
+            {
+                "task_id": 56,
+                "passed": false,
+                "result": "failed: ",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "57": [
+        [
+            0,
+            {
+                "task_id": 57,
+                "passed": false,
+                "result": "failed: ",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "58": [
+        [
+            0,
+            {
+                "task_id": 58,
+                "passed": true,
+                "result": "passed",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "59": [
+        [
+            0,
+            {
+                "task_id": 59,
+                "passed": false,
+                "result": "failed: local variable 'factors' referenced before assignment",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "60": [
+        [
+            0,
+            {
+                "task_id": 60,
+                "passed": true,
+                "result": "passed",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "61": [
+        [
+            0,
+            {
+                "task_id": 61,
+                "passed": true,
+                "result": "passed",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "62": [
+        [
+            0,
+            {
+                "task_id": 62,
+                "passed": false,
+                "result": "failed: name 'x' is not defined",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "63": [
+        [
+            0,
+            {
+                "task_id": 63,
+                "passed": false,
+                "result": "failed: maximum recursion depth exceeded in comparison",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "64": [
+        [
+            0,
+            {
+                "task_id": 64,
+                "passed": false,
+                "result": "failed: Test 1",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "65": [
+        [
+            0,
+            {
+                "task_id": 65,
+                "passed": false,
+                "result": "failed: ",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "66": [
+        [
+            0,
+            {
+                "task_id": 66,
+                "passed": false,
+                "result": "failed: Error",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "67": [
+        [
+            0,
+            {
+                "task_id": 67,
+                "passed": false,
+                "result": "failed: ",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "68": [
+        [
+            0,
+            {
+                "task_id": 68,
+                "passed": false,
+                "result": "failed: Error",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "70": [
+        [
+            0,
+            {
+                "task_id": 70,
+                "passed": false,
+                "result": "failed: ",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "69": [
+        [
+            0,
+            {
+                "task_id": 69,
+                "passed": false,
+                "result": "failed: ",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "71": [
+        [
+            0,
+            {
+                "task_id": 71,
+                "passed": false,
+                "result": "failed: This prints if this assert fails 1 (good for debugging!)",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "72": [
+        [
+            0,
+            {
+                "task_id": 72,
+                "passed": false,
+                "result": "failed: ",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "73": [
+        [
+            0,
+            {
+                "task_id": 73,
+                "passed": false,
+                "result": "failed: ",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "74": [
+        [
+            0,
+            {
+                "task_id": 74,
+                "passed": false,
+                "result": "failed: ",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "75": [
+        [
+            0,
+            {
+                "task_id": 75,
+                "passed": false,
+                "result": "failed: name 'factorization' is not defined",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "76": [
+        [
+            0,
+            {
+                "task_id": 76,
+                "passed": false,
+                "result": "failed: This prints if this assert fails 1 (good for debugging!)",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "78": [
+        [
+            0,
+            {
+                "task_id": 78,
+                "passed": false,
+                "result": "failed: name 'PRIMAL_DIGITS' is not defined",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "77": [
+        [
+            0,
+            {
+                "task_id": 77,
+                "passed": false,
+                "result": "failed: Fourth test error: False",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "79": [
+        [
+            0,
+            {
+                "task_id": 79,
+                "passed": false,
+                "result": "failed: ",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "80": [
+        [
+            0,
+            {
+                "task_id": 80,
+                "passed": false,
+                "result": "failed: aabb",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "81": [
+        [
+            0,
+            {
+                "task_id": 81,
+                "passed": false,
+                "result": "failed: 'float' object is not subscriptable",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "83": [
+        [
+            0,
+            {
+                "task_id": 83,
+                "passed": false,
+                "result": "failed: startswith first arg must be str or a tuple of str, not int",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "84": [
+        [
+            0,
+            {
+                "task_id": 84,
+                "passed": false,
+                "result": "failed: Error",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "82": [
+        [
+            0,
+            {
+                "task_id": 82,
+                "passed": false,
+                "result": "failed: ",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "85": [
+        [
+            0,
+            {
+                "task_id": 85,
+                "passed": false,
+                "result": "failed: ",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "87": [
+        [
+            0,
+            {
+                "task_id": 87,
+                "passed": false,
+                "result": "failed: ",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "86": [
+        [
+            0,
+            {
+                "task_id": 86,
+                "passed": false,
+                "result": "failed: empty separator",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "88": [
+        [
+            0,
+            {
+                "task_id": 88,
+                "passed": false,
+                "result": "failed: Error",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "89": [
+        [
+            0,
+            {
+                "task_id": 89,
+                "passed": false,
+                "result": "failed: string index out of range",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "91": [
+        [
+            0,
+            {
+                "task_id": 91,
+                "passed": false,
+                "result": "failed: Test 2",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "90": [
+        [
+            0,
+            {
+                "task_id": 90,
+                "passed": false,
+                "result": "failed: 'int' object is not subscriptable",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "92": [
+        [
+            0,
+            {
+                "task_id": 92,
+                "passed": false,
+                "result": "failed: This prints if this assert fails 2 (good for debugging!)",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "93": [
+        [
+            0,
+            {
+                "task_id": 93,
+                "passed": false,
+                "result": "failed: This prints if this assert fails 1 (good for debugging!)",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "94": [
+        [
+            0,
+            {
+                "task_id": 94,
+                "passed": false,
+                "result": "failed: 'int' object is not iterable",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "95": [
+        [
+            0,
+            {
+                "task_id": 95,
+                "passed": false,
+                "result": "failed: First test error: False",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "97": [
+        [
+            0,
+            {
+                "task_id": 97,
+                "passed": false,
+                "result": "failed: empty separator",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "98": [
+        [
+            0,
+            {
+                "task_id": 98,
+                "passed": false,
+                "result": "failed: ",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "96": [
+        [
+            0,
+            {
+                "task_id": 96,
+                "passed": false,
+                "result": "failed: ",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "99": [
+        [
+            0,
+            {
+                "task_id": 99,
+                "passed": false,
+                "result": "failed: Test 2",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "101": [
+        [
+            0,
+            {
+                "task_id": 101,
+                "passed": false,
+                "result": "failed: ",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "100": [
+        [
+            0,
+            {
+                "task_id": 100,
+                "passed": false,
+                "result": "failed: name 'next_level' is not defined",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "103": [
+        [
+            0,
+            {
+                "task_id": 103,
+                "passed": false,
+                "result": "failed: ",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "102": [
+        [
+            0,
+            {
+                "task_id": 102,
+                "passed": false,
+                "result": "failed: ",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "104": [
+        [
+            0,
+            {
+                "task_id": 104,
+                "passed": false,
+                "result": "failed: empty separator",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "105": [
+        [
+            0,
+            {
+                "task_id": 105,
+                "passed": false,
+                "result": "failed: Error",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "106": [
+        [
+            0,
+            {
+                "task_id": 106,
+                "passed": false,
+                "result": "failed: invalid syntax (<string>, line 29)",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "108": [
+        [
+            0,
+            {
+                "task_id": 108,
+                "passed": false,
+                "result": "failed: ",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "107": [
+        [
+            0,
+            {
+                "task_id": 107,
+                "passed": false,
+                "result": "failed: name 'is_palindrome' is not defined",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "109": [
+        [
+            0,
+            {
+                "task_id": 109,
+                "passed": false,
+                "result": "failed: name 'is_sorted' is not defined",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "110": [
+        [
+            0,
+            {
+                "task_id": 110,
+                "passed": false,
+                "result": "failed: list index out of range",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "111": [
+        [
+            0,
+            {
+                "task_id": 111,
+                "passed": false,
+                "result": "failed: This prints if this assert fails 2 (good for debugging!)",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "112": [
+        [
+            0,
+            {
+                "task_id": 112,
+                "passed": false,
+                "result": "failed: ",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "114": [
+        [
+            0,
+            {
+                "task_id": 114,
+                "passed": false,
+                "result": "failed: This prints if this assert fails 1 (good for debugging!)",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "113": [
+        [
+            0,
+            {
+                "task_id": 113,
+                "passed": false,
+                "result": "failed: not all arguments converted during string formatting",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "115": [
+        [
+            0,
+            {
+                "task_id": 115,
+                "passed": false,
+                "result": "failed: Error",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "116": [
+        [
+            0,
+            {
+                "task_id": 116,
+                "passed": false,
+                "result": "failed: ",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "117": [
+        [
+            0,
+            {
+                "task_id": 117,
+                "passed": false,
+                "result": "failed: First test error: []",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "118": [
+        [
+            0,
+            {
+                "task_id": 118,
+                "passed": false,
+                "result": "failed: ",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "119": [
+        [
+            0,
+            {
+                "task_id": 119,
+                "passed": false,
+                "result": "failed: ",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "120": [
+        [
+            0,
+            {
+                "task_id": 120,
+                "passed": false,
+                "result": "failed: ",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "121": [
+        [
+            0,
+            {
+                "task_id": 121,
+                "passed": false,
+                "result": "failed: ",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "122": [
+        [
+            0,
+            {
+                "task_id": 122,
+                "passed": false,
+                "result": "failed: ",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "123": [
+        [
+            0,
+            {
+                "task_id": 123,
+                "passed": false,
+                "result": "failed: ",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "125": [
+        [
+            0,
+            {
+                "task_id": 125,
+                "passed": false,
+                "result": "failed: ",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "124": [
+        [
+            0,
+            {
+                "task_id": 124,
+                "passed": false,
+                "result": "failed: ",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "127": [
+        [
+            0,
+            {
+                "task_id": 127,
+                "passed": false,
+                "result": "failed: unsupported operand type(s) for &: 'tuple' and 'tuple'",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "126": [
+        [
+            0,
+            {
+                "task_id": 126,
+                "passed": false,
+                "result": "failed: ",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "128": [
+        [
+            0,
+            {
+                "task_id": 128,
+                "passed": false,
+                "result": "failed: name 'sign' is not defined",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "129": [
+        [
+            0,
+            {
+                "task_id": 129,
+                "passed": false,
+                "result": "failed: unhashable type: 'list'",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "130": [
+        [
+            0,
+            {
+                "task_id": 130,
+                "passed": false,
+                "result": "failed: maximum recursion depth exceeded in comparison",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "131": [
+        [
+            0,
+            {
+                "task_id": 131,
+                "passed": false,
+                "result": "failed: not all arguments converted during string formatting",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "132": [
+        [
+            0,
+            {
+                "task_id": 132,
+                "passed": false,
+                "result": "failed: This prints if this assert fails 1 (good for debugging!)",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "133": [
+        [
+            0,
+            {
+                "task_id": 133,
+                "passed": false,
+                "result": "failed: This prints if this assert fails 1 (good for debugging!)",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "135": [
+        [
+            0,
+            {
+                "task_id": 135,
+                "passed": false,
+                "result": "failed: ",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "136": [
+        [
+            0,
+            {
+                "task_id": 136,
+                "passed": false,
+                "result": "failed: ",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "134": [
+        [
+            0,
+            {
+                "task_id": 134,
+                "passed": false,
+                "result": "failed: ",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "137": [
+        [
+            0,
+            {
+                "task_id": 137,
+                "passed": false,
+                "result": "failed: ",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "139": [
+        [
+            0,
+            {
+                "task_id": 139,
+                "passed": false,
+                "result": "failed: Test 4",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "138": [
+        [
+            0,
+            {
+                "task_id": 138,
+                "passed": false,
+                "result": "failed: ",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "140": [
+        [
+            0,
+            {
+                "task_id": 140,
+                "passed": false,
+                "result": "failed: This prints if this assert fails 4 (good for debugging!)",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "141": [
+        [
+            0,
+            {
+                "task_id": 141,
+                "passed": false,
+                "result": "failed: ",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "142": [
+        [
+            0,
+            {
+                "task_id": 142,
+                "passed": false,
+                "result": "failed: ",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "144": [
+        [
+            0,
+            {
+                "task_id": 144,
+                "passed": false,
+                "result": "failed: name 'simplify_inner' is not defined",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "143": [
+        [
+            0,
+            {
+                "task_id": 143,
+                "passed": false,
+                "result": "failed: name 'is_prime' is not defined",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "145": [
+        [
+            0,
+            {
+                "task_id": 145,
+                "passed": false,
+                "result": "failed: invalid literal for int() with base 10: '-'",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "146": [
+        [
+            0,
+            {
+                "task_id": 146,
+                "passed": false,
+                "result": "failed: ",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "147": [
+        [
+            0,
+            {
+                "task_id": 147,
+                "passed": false,
+                "result": "failed: ",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "149": [
+        [
+            0,
+            {
+                "task_id": 149,
+                "passed": false,
+                "result": "failed: ",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "148": [
+        [
+            0,
+            {
+                "task_id": 148,
+                "passed": false,
+                "result": "failed: name 'planets' is not defined",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "150": [
+        [
+            0,
+            {
+                "task_id": 150,
+                "passed": false,
+                "result": "failed: ",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "151": [
+        [
+            0,
+            {
+                "task_id": 151,
+                "passed": false,
+                "result": "failed: This prints if this assert fails 5 (also good for debugging!)",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "152": [
+        [
+            0,
+            {
+                "task_id": 152,
+                "passed": true,
+                "result": "passed",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "153": [
+        [
+            0,
+            {
+                "task_id": 153,
+                "passed": false,
+                "result": "failed: count() takes at least 1 argument (0 given)",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "154": [
+        [
+            0,
+            {
+                "task_id": 154,
+                "passed": false,
+                "result": "failed: name 'rotations' is not defined",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "155": [
+        [
+            0,
+            {
+                "task_id": 155,
+                "passed": false,
+                "result": "failed: not all arguments converted during string formatting",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "156": [
+        [
+            0,
+            {
+                "task_id": 156,
+                "passed": false,
+                "result": "failed: name 'roman_numeral' is not defined",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "157": [
+        [
+            0,
+            {
+                "task_id": 157,
+                "passed": false,
+                "result": "failed: ",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "159": [
+        [
+            0,
+            {
+                "task_id": 159,
+                "passed": false,
+                "result": "failed: Error",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "158": [
+        [
+            0,
+            {
+                "task_id": 158,
+                "passed": false,
+                "result": "failed: t2",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "161": [
+        [
+            0,
+            {
+                "task_id": 161,
+                "passed": false,
+                "result": "failed: 'str' object does not support item assignment",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "160": [
+        [
+            0,
+            {
+                "task_id": 160,
+                "passed": false,
+                "result": "failed: name 'evaluate_expression' is not defined",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "162": [
+        [
+            0,
+            {
+                "task_id": 162,
+                "passed": true,
+                "result": "passed",
+                "completion_id": 0
+            }
+        ]
+    ],
+    "163": [
+        [
+            0,
+            {
+                "task_id": 163,
+                "passed": false,
+                "result": "failed: Test 1",
+                "completion_id": 0
+            }
+        ]
+    ]
+}

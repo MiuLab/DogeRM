@@ -1,0 +1,48 @@
+stanfordnlp/SHP-2:
+  train_split: "train"
+  test_split: "validation"
+  preprocess_func_args:
+    score_ratio: 20
+
+Anthropic/hh-rlhf:
+  train_split: "train"
+  test_split: "test"
+
+abacusai/MetaMath_DPO_FewShot:
+  train_split: "train[:5%]"
+  test_split: "eval"
+
+argilla/distilabel-math-preference-dpo:
+  train_split: "train"
+  test_split: 
+
+tatsu-lab/alpaca_farm:
+  name: "alpaca_human_preference"
+  train_split: "preference"
+  test_split: 
+
+PKU-Alignment/PKU-SafeRLHF-30K:
+  train_split: "train"
+  test_split: "test"
+
+openai/summarize_from_feedback:
+  train_split: "train[:20%]"
+  test_split: "validation[:10%]"
+  name: "comparisons"
+
+HuggingFaceH4/summarize_from_feedback:
+  train_split: "train_prefs[:20%]"
+  test_split: "test_prefs[:10%]"
+
+HuggingFaceH4/ultrafeedback_binarized:
+  train_split: "train_prefs"
+  test_split: "test_prefs"
+
+argilla/ultrafeedback-binarized-preferences-cleaned:
+  train_split: train
+  test_split: 
+
+# modify to actual Auto-J Eval data path
+auto-j/data/test/testdata_pairwise.jsonl:
+  train_split: train
+  test_split: 
