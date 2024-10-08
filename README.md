@@ -15,6 +15,7 @@
 </div>
 
 # News
+- [2024.10.08] 🚧🚧🚧 Currently we are trying to integrating features such as system prompt into reward-bench. As a result, **the evaluations on reward-bench are temporarily unavailable**. 🚧🚧🚧
 - [2024.10.06] We release our experimental codes and the model collections on [🤗huggingface](https://huggingface.co/collections/miulab/dogerm-66feaa037d722f0879be4332).
 - [2024.09.20]: 🎉🎉🎉 Our paper is accepted at **EMNLP 2024 main conference (short paper)**. 🎉🎉🎉
 
@@ -45,6 +46,12 @@ conda activate {your_env_name}
 ## Evaluation
 
 ### Reward Bench
+
+🚧🚧🚧
+
+**Note**: We are in the process of integrating new features, including the system prompt functionality, into reward-bench. During this update, **evaluations on reward-bench are temporarily unavailable**. Thank you for your patience.
+
+🚧🚧🚧
 
 We include our modified RewardBench here, where the modification includes:
 1. use system prompt for our LLaMA-2 based RM, which is not included in the original implementation
